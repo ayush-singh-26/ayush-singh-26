@@ -46,15 +46,3 @@ Active contributor to Hacktoberfest 2024.
 
 Collaborated on multiple repositories to improve codebases and add features.
 
-Contact Me
-
-Email: ayush.singh@example.com
-
-LinkedIn: Ayush Singh
-
-GitHub: Ayush Singh
-
-Let's Connect
-
-I am always excited to collaborate on interesting projects and contribute to innovative solutions. Feel free to explore my repositories and reach out for collaborations!
-
