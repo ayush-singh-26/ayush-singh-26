@@ -1,16 +1,60 @@
-## Hi there 👋
+Ayush Singh's GitHub Profile
 
-<!--
-**ayush-singh-26/ayush-singh-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+Hi, I'm Ayush Singh, a passionate developer constantly learning and growing in the field of technology. This GitHub profile is a hub for my projects, achievements, and open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+Current Role: B.Tech in Computer Science and Engineering at ABES Engineering College, Ghaziabad (CGPA: 7.9).
+
+Interests: Full-stack development, MERN stack, problem-solving, and exploring new technologies.
+
+Hobbies: Playing chess, listening to music, and contributing to open-source.
+
+Highlights
+
+Projects
+
+Netflix Clone: A full-stack replica of Netflix using the MERN stack.
+
+Blog App: A dynamic platform for creating and managing blogs.
+
+Weather App: A React-based app that fetches and displays weather updates.
+
+Achievements
+
+Completed 200+ days of coding challenges on LeetCode.
+
+Successfully participated in Hacktoberfest 2024 with 7 pull requests.
+
+Earned the Holopin badge for open-source contributions.
+
+Skills
+
+Programming Languages: C++, JavaScript
+
+Frameworks & Libraries: React, Node.js, Express
+
+Database: MongoDB
+
+Tools: Git, OpenPort, Hangling
+
+Open Source Contributions
+
+Active contributor to Hacktoberfest 2024.
+
+Collaborated on multiple repositories to improve codebases and add features.
+
+Contact Me
+
+Email: ayush.singh@example.com
+
+LinkedIn: Ayush Singh
+
+GitHub: Ayush Singh
+
+Let's Connect
+
+I am always excited to collaborate on interesting projects and contribute to innovative solutions. Feel free to explore my repositories and reach out for collaborations!
+
