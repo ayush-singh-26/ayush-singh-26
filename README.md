@@ -64,26 +64,11 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <!-- Android -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
-
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
 
-  <!-- Kotlin -->
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin" />
-
-  <!-- PHP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-
-  <!-- Laravel -->
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" alt="Laravel" />
-
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-
-  <!-- Vue.js -->
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40" alt="Vue.js" />
 
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
@@ -100,31 +85,17 @@
   <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
 
-  <!-- Google Cloud -->
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud" />
-
-  <!-- Azure -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure" />
-
   <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-
 
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 
-  <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-
   <!-- Figma -->
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
 
- 
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-
-  <!-- Android Studio -->
-  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="40" height="40" alt="Android Studio" />
 </p>
 
 
@@ -133,15 +104,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtalhaofc&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-singh-26&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhaofc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-singh-26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhaofc&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-singh-26&" alt="GitHub Streak" />
 </p>
 
 ---
@@ -152,13 +123,13 @@
 If you like my work and want to support me:
 
 <p align="center">
-  <a href="https://github.com/MTalhaofc?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/MTalhaofc?label=Follow&logo=github&style=for-the-badge" alt="Follow @MTalhaofc" />
+  <a href="https://github.com/ayush-singh-26?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/ayush-singh-26?label=Follow&logo=github&style=for-the-badge" alt="Follow @ayush-singh-26" />
   </a>
 
 
 
-  <a href="mailto:talha0750@gmail.com" target="_blank">
+  <a href="mailto:ayushsinghayush2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
